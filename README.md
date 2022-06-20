@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: <Strong><em>**C#, CSS, HTML and Angular**</em></Strong>
 
-- 🤖 Interest/Future: <Strong><em>My goal is to learn AI, Machine Learning</em></Strong>
+- 🤖 Interest/Future: <Strong><em>My goal is to learn AI and Machine Learning</em></Strong>
 
 - 📫 How to reach me: <Strong><em>**Andycs2021@gmail.com**</em></Strong>
 
