@@ -22,9 +22,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andylaa10&show_icons=true&locale=en&layout=compact" alt="andylaa10" /></p>
+<p align="center">
+    <a href="https://github.com/Andylaa10/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andylaa10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andylaa10&show_icons=true&locale=en" alt="andylaa10" /></p>
+## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andylaa10&" alt="andylaa10" /></p>
+  <br/>
+    <a href="https://github.com/Andylaa10/github-readme-stats"><img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andylaa10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Andylaa10/github-readme-stats"><img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andylaa10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Andylaa10/github-readme-activity-graph"><img alt="Andy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andylaa10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
